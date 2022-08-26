@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pawuuu
+- 👋 Hi, I’m @Gavva
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
